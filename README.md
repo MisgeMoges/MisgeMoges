@@ -45,6 +45,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=misganmoges03&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=misganmoges03&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=MisgeMoges&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MisgeMoges&theme=tokyonight" />
 </p>
