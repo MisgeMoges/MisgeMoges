@@ -10,25 +10,12 @@
 * 📫 Reach me at **[misganmoges03@gmail.com](mailto:misganmoges03@gmail.com)**
 * 📄 [View My Resume](https://drive.google.com/file/d/1UwoIa52iOkiz5sqCN4kVEGvtrCYiyHsi/view?usp=sharing)
 
----
 
-### 🤝 Connect with Me
-
-<p align="left">
+### 🤝 Connect with Me <p align="left">
 <a href="https://www.linkedin.com/in/misge/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a><br/>
+</a> </p>
 
-<a href="https://www.hackerrank.com/profile/misganmoges03" target="_blank">
-  <img src="https://skillicons.dev/icons?i=hackerrank" height="40" />
-</a><br/>
-
-<a href="https://leetcode.com/u/misganmoges03/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-</a>
-</p>
-
----
 
 ### 🛠️ Languages & Tools
 
