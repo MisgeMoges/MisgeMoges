@@ -8,7 +8,7 @@
 * 🌱 Currently learning **Golang (Gin)**
 * 💬 Ask me about **React, Next.js, Node.js, NestJS, Frappe, ERPNext**
 * 📫 Reach me at **[misganmoges03@gmail.com](mailto:misganmoges03@gmail.com)**
-* 📄 [View My Resume](https://drive.google.com/file/d/1UwoIa52iOkiz5sqCN4kVEGvtrCYiyHsi/view?usp=sharing)
+* 📄 https://drive.google.com/file/d/1aZoFRy6fWmRPNeQNSrY9JNDPmpaVa32o/view?usp=sharing
 
 
 ### 🤝 Connect with Me <p align="left">
